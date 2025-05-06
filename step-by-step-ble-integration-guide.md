@@ -1,4 +1,4 @@
-# Step-by-Step BLE Integration Guide for Expo Apps Using react-native-ble-plx
+# React Native BLE: Step-by-Step BLE Integration Guide for Expo Apps Using react-native-ble-plx
 
 This guide walks you through integrating Bluetooth Low Energy (BLE) into your Expo application using the `react-native-ble-plx` library. It covers setup, permissions, scanning, connecting, reading, writing, and best practices, with code examples and Expo-specific notes.
 
