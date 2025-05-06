@@ -83,5 +83,5 @@
 
 ## References
 
-- [react-native-ble-plx docs](https://dotintent.github.io/react-native-ble-plx/)
+- [Official react-native-ble-plx Docs](https://github.com/dotintent/react-native-ble-plx)
 - [BLE integration guide and pitfalls](https://stormotion.io/blog/what-to-consider-when-integrating-ble-in-your-react-native-app/)
